@@ -3,14 +3,9 @@
   <a href="https://www.linkedin.com/in/nicholas-phi-ab047b191" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
-  </a>
 </p>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. Here is my landing page to demonstrate the tools I have been learning and using. My goal is to get an entry-level SOC analyst position.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
