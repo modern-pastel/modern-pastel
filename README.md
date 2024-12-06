@@ -46,6 +46,6 @@ My journey in learning about computer science has led me to develop a passion fo
 </div>
 
 ## Projects
-- <a href="https://github.com/modern-pastel/Elastic-SIEM-Home-Lab">Elastic SIEM Home Lab</a>
--TCPDump Logging Tool
+- <a href="https://github.com/modern-pastel/Elastic-SIEM-Home-Lab">Elastic SIEM Home Lab</a> 
+- <a TCPDump Logging Tool
 - SOC Automation Project
