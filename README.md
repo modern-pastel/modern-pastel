@@ -17,6 +17,11 @@ My journey in learning about computer science has led me to develop a passion fo
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/modern-pastel/Elastic-SIEM-Home-Lab">Elastic SIEM Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/modern-pastel/Elastic-SIEM-Home-Lab">Elastic SIEM Home Lab</a>|
+| Packet Capture and Analysis         | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
+| Traffic Logging      | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
+| Advanced Filtering Techniques                  | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
+| Dump File Management | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
+| Network Forensics | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
