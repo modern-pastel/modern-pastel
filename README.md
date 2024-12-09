@@ -45,6 +45,16 @@ My journey in learning about computer science has led me to develop a passion fo
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### OS
+<div>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+</div>
+
+###  IDE
+<div>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -52,5 +62,5 @@ My journey in learning about computer science has led me to develop a passion fo
 
 ## Projects
 - <a href="https://github.com/modern-pastel/Elastic-SIEM-Home-Lab">Elastic SIEM Home Lab</a> 
-- <a TCPDump Logging Tool
+- <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>
 - SOC Automation Project
