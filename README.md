@@ -48,6 +48,9 @@ My journey in learning about computer science has led me to develop a passion fo
 ### OS
 <div>
   <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+  ubuntu
+  kali linux
+  red hat
 </div>
 
 ###  IDE
