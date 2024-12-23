@@ -22,16 +22,18 @@ My journey in learning about computer science has led me to develop a passion fo
 | Advanced Filtering Techniques                  | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
 | Dump File Management | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
 | Network Forensics | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Creating AWS S3 Buckets         | SOC Automation Lab|
+| Configuring AWS CloudFront Distributions      | SOC Automation Lab|
+| Setting Up Error Pages                  | SOC Automation Lab|
+| Implementing Region-wise Access Restrictions | SOC Automation Lab|
+| Managing URL Invalidations | SOC Automation Lab|
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20CloudFront-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -48,9 +50,8 @@ My journey in learning about computer science has led me to develop a passion fo
 ### OS
 <div>
   <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
-  ubuntu
-  kali linux
-  red hat
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
 </div>
 
 ###  IDE
