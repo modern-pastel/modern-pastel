@@ -22,24 +22,19 @@ My journey in learning about computer science has led me to develop a passion fo
 | Advanced Filtering Techniques                  | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
 | Dump File Management | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
 | Network Forensics | <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>|
-| Creating AWS S3 Buckets         | SOC Automation Lab|
-| Configuring AWS CloudFront Distributions      | SOC Automation Lab|
-| Setting Up Error Pages                  | SOC Automation Lab|
-| Implementing Region-wise Access Restrictions | SOC Automation Lab|
-| Managing URL Invalidations | SOC Automation Lab|
+| Creating AWS S3 Buckets         | <a href="https://github.com/modern-pastel/AWS-S3-Buckets-Project/blob/main/README.md">AWS S3 Buckets Project</a>|
+| Configuring AWS CloudFront Distributions      | <a href="https://github.com/modern-pastel/AWS-S3-Buckets-Project/blob/main/README.md">AWS S3 Buckets Project</a>|
+| Setting Up Error Pages                  | <a href="https://github.com/modern-pastel/AWS-S3-Buckets-Project/blob/main/README.md">AWS S3 Buckets Project</a>|
+| Implementing Region-wise Access Restrictions | <a href="https://github.com/modern-pastel/AWS-S3-Buckets-Project/blob/main/README.md">AWS S3 Buckets Project</a>|
+| Managing URL Invalidations | <a href="https://github.com/modern-pastel/AWS-S3-Buckets-Project/blob/main/README.md">AWS S3 Buckets Project</a>|
 
 ## Tools
+
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Amazon%20CloudFront-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -67,4 +62,4 @@ My journey in learning about computer science has led me to develop a passion fo
 ## Projects
 - <a href="https://github.com/modern-pastel/Elastic-SIEM-Home-Lab">Elastic SIEM Home Lab</a> 
 - <a href="https://github.com/modern-pastel/Network-Traffic-Analysis-with-TCPDump">Network Traffic Analysis Project</a>
-- SOC Automation Project
+- <a href="https://github.com/modern-pastel/AWS-S3-Buckets-Project/blob/main/README.md">AWS S3 Buckets Project</a>
