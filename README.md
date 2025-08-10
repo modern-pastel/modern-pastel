@@ -52,14 +52,13 @@ My journey in learning about computer science has led me to develop a passion fo
 ###  IDE
 <div>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CompTIA%20Network%2B-EA001D?&style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CompTIA%20A%2B-EA001D?&style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-CompTIA%20Network%2B-EA001D?&style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20A%2B-EA001D?&style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
 
 ## Projects
