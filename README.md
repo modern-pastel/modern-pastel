@@ -56,7 +56,7 @@ My journey in learning about computer science has led me to develop a passion fo
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EA001D?&style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20Network%2B-EA001D?&style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/-CompTIA%20A%2B-EA001D?&style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
